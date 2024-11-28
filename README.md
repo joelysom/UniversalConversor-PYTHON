@@ -70,7 +70,7 @@ O código está organizado em uma estrutura linear e conta com:
 ## Principais Funcionalidades
 
 ### 1. Carregar Imagens
-![exemploFormatoSaída](example_1.png)
+![exemploFormatoCarregar](example_1.png)
 - **Descrição**:
   Seleciona até 20 imagens do sistema de arquivos.
 
@@ -109,7 +109,7 @@ O código está organizado em uma estrutura linear e conta com:
 ### 4. Navegação
 
 - Botões para adicionar imagens, converter, selecionar pastas e encerrar o programa.
-![exemploFormatoSaída](example_3.png)
+![exemploFormatoNavegação](example_3.png)
 ---
 
 ## Como Utilizar
@@ -130,7 +130,7 @@ O código está organizado em uma estrutura linear e conta com:
    Imagens convertidas serão exibidas no lado direito.
 
 ---
-![exemploFormatoSaída](example_4.png)
+![exemploFormatoConversão](example_4.png)
 
 ## Notas sobre Implementação
 
